@@ -1,0 +1,11 @@
+# Datos oficiales: se descargan de las fuentes, no se versionan
+Archivos Excel datos actualizados 18 de Agosto de 2026/
+*.xlsx
+*.zip
+# Archivos generados por el cuaderno
+*.pkl
+*.gpkg
+mapas_arcgis/
+*.png
+.ipynb_checkpoints/
+__pycache__/

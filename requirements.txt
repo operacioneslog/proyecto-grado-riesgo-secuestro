@@ -1,0 +1,12 @@
+pandas==3.1.0
+numpy==2.2.4
+matplotlib==3.10.1
+openpyxl==3.1.5
+geopandas==1.2.0
+pyogrio==0.13.0
+shapely==2.1.2
+libpysal==4.15.1
+esda==2.10.0
+scikit-learn==1.9.1
+scipy==1.18.1
+ipykernel==6.29.5
